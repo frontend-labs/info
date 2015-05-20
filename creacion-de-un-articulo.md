@@ -6,7 +6,7 @@ Máximo 70 caracteres, no olvides definir e incluir tu **palabra clave**.
 
 ### Imagen de cabecera 
 
-Obligatoria para que al enlazar el Post en las redes sociales coja la primera foto que aparece en el post, pero si debe de ser de buena calidad en px.
+Obligatoria para que al enlazar el Post en las redes sociales coja la primera foto que aparece en el post, pero si debe de ser de buena calidad, para un mejor resultado debe ser como mínimo de 1200 x 630 pixeles.
 
 ### Contenido del articulo(post)
 
