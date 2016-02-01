@@ -2,11 +2,10 @@
 
 ### Enero
 
-* ES6
-* Webpack 
-* Babel vs traceur
+* ES6 - Luis Sardon
+* 
 
-### Enero
+### Febrero
 
 * ES5
 
