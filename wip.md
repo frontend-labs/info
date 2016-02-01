@@ -3,7 +3,8 @@
 ### Enero
 
 * ES6
-* 
+* Webpack 
+* Babel vs traceur
 
 ### Enero
 
