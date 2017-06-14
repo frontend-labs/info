@@ -43,6 +43,8 @@ Si quieres que tu contenido salga en la primera página de Google tendrás que o
 
 2. No subas imágenes con títulos como “Captura Pantalla” o “Imagen-1”. Intenta siempre agregar un título a la imagen
 
+3. Utiliza http://keywordtool.io/
+
 - - - - - 
 
 ### Documéntate
